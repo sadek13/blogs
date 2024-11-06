@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": "55c3",
+      "title": "Introduction to JavaScript",
+      "body": "JavaScript is a versatile language used for web development...",
+      "author": "John Doe"
+    },
+    {
+      "id": "4828",
+      "title": "CSS Tips and Tricks",
+      "body": "Learn various CSS techniques to improve your web designs...",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": "cbdb",
+      "title": "Setting up JSON Server",
+      "body": "JSON Server is a quick way to create a REST API for testing...",
+      "author": "Chris Lee"
+    },
+    {
+      "id": "1144",
+      "title": "Mastering Flexbox in CSS",
+      "body": "Flexbox is a CSS layout mode that makes it easy to design responsive layouts...",
+      "author": "Daniel Brown"
+    },
+    {
+      "id": "d1e7",
+      "title": "Intro to Node.js",
+      "body": "Node.js is a runtime environment that allows JavaScript to be used server-side...",
+      "author": "Laura Green"
+    },
+    {
+      "id": "beb4",
+      "title": "Building REST APIs with Express",
+      "body": "Express is a minimal framework for building web applications in Node.js...",
+      "author": "Michael Scott"
+    }
+  ]
+}
